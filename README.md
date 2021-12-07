@@ -1,4 +1,13 @@
 #  👨‍💻 Cartoonify an Image with Computer Vision   👾
+Table of Contents
+=================
+
+
+   * [Overview](#-overview)
+   * [Module Use](#module-use)
+   * [Screenshots](#screenshots)
+   * [Social Link](#-social-link)
+* [Team <g-emoji class="g-emoji" alias="people_hugging" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1fac2.png">🫂</g-emoji>](#team-)
 
 ## 👨‍💻 Overview
 Nowadays A lot of app challenge to come and upload the images after some seconds it will convert into Cartoon format, But Internally how it works, In This Project we gonna see that, So It is a simple Computer Vision Project in which we can take an image Internally process the image and give output in the Cartoon form.
